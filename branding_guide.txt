@@ -1,0 +1,4 @@
+Name: ArWrld
+Font: Roboto Thin
+Color: #7110FF
+Background: #191919
